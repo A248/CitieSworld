@@ -1,20 +1,23 @@
 **Convention Members**
+
 The following accounts will be considered full Convention members. 70% of their approval is required to ratify an Amendment. These are the accounts, referred to by their UUIDs:
-ed5f12cd600745d9a4b9940524ddaecf
-949ff2499a0140329ecfc1b610fd7990
-b703704f5e88478bb5da49a27efcf88a
-3faf6b167c344049a919a7b4198e2374
+* ed5f12cd600745d9a4b9940524ddaecf
+* 949ff2499a0140329ecfc1b610fd7990
+* b703704f5e88478bb5da49a27efcf88a
+* 3faf6b167c344049a919a7b4198e2374
 
 These accounts correspond to Anand Beh, Akash Beh, Sohki Mitsunami, and Devan Cornelio. These accounts correspond to *SEE GOOGLE DOCUMENT FOR PRIVACY REASONS*.
 
 When an amendment/clause is ratified by a specific Convention member, that Convention member may rescind his/her ratification within 24 hours of approving such clause/amendment.
 
 **Rights and Legal Principles**
+
 Everyone has the right to freedom of speech.
 Everyone has the right to due process and a fair trial.
 Everyone has the right to not incriminate oneself.
 
 **Immigration** *(per the New Restricted World Amendment)*
+
 1. New players must have commoner status to enter the world.
 
 2. Commoners must be approved to the commoners' whitelist by a court member. The whitelist is a list of all commoners allowed in the world.
@@ -36,14 +39,17 @@ Everyone has the right to not incriminate oneself.
 New players (commoners) can only claim stuff 700 blocks away from Akash's gold farm (X: 217, Z: 262).
 
 **Time and Difficulty**
+
 Changing the worldwide difficulty to a higher difficulty (more monsters) must be unanimously agreed upon. Else, if the difficulty is not agreed upon, the lowest difficulty (least monsters) proposed is used worldwide. Any player may set the difficulty to peaceful at any time.
 
 If all Court Members online agree to change the game time, the game time will be changed accordingly.
 
 **Backups**
+
 When a backup is requested, whichever Court member is responsible for the hosting (i.e., digital storage) of the world, known as the backup creator, must create a backup of the world and share it with the requesting player. If the requesting player claims the backup has not been shared, the backup creator must share it over Google Drive.
 
 **Miscellaneous**
+
 Players may craft 4 packed ice from a shapeless recipe of 4 ice.
 
 Players can "breed" villagers by rightclicking a villager while holding 2 or more carrots. If there is a second villager close to the first one, then a new villager will be spawned at the clicked villager.
@@ -55,11 +61,13 @@ Players may use the enderman-grief WorldGuard flag in their own land to prevent 
 Players can optionally disable/enable creepers from damaging blocks on their own claimed land through explosive power.
 
 **Custom Maps**
+
 Players are able to craft a custom map from a shapeless recipe of a sign, a lapis block, and another lapis block. One crafted, an image may be pasted onto such a custom map item via a custom command, provided the image is formatted correctly such that it may be replicated on a map.
 
 Each player may only create a maximum of 2,000 custom maps.
 
 **Court Discussions**
+
 At any time, for any reason, a Court member may call a Court Discussion to clarify some legal status, principle, or precedent. The discussion will revolve around a question – with the Court to give the final binding answer.
 
 Once a Court Discussion is called, the Court will be summoned. Players may either argue for an answer or remain a judge. Should they decide to argue for or against an answer, they cannot participate in deciding the final binding answer. Should the player remain a judge, they cannot argue for or against an answer. Merely, judges can question the players who are arguing to clarify their argument(s). If no players decide to argue, then the Court Discussion will be closed. It is possible to have one player argue for one answer.
@@ -69,11 +77,13 @@ Finally, after 3 weeks of deliberation, the Court should start to come to a deci
 If the judges do not reach a majority decision within 6 weeks of the beginning of the Court Discussion, then the Court Discussion will be closed and no final binding answer will be issued. If the judges reach a majority decision within 6 weeks of the beginning of the Court Discussion, but not before 3 weeks of the beginning of the Court Discussion, the answer they have decided upon will be issued as a final binding answer, upheld as law.
 
 **Blocks and Nature**
+
 One may not grief/destroy vast amounts of unclaimed land en masse. 
 
 On claimed land one may edit blocks as the landlord wishes. 
 
 **Structures**
+
 Villagers may not be killed. 
 
 Access to nether fortresses and strongholds may not be blocked.
@@ -86,6 +96,7 @@ The contents of dungeons and mineshafts, more specifically the blocks comprising
 Strongholds and nether fortresses may not be claimed. Players are free to claim ocean monuments, dungeons, mineshafts, villages, jungle temples, and desert temples.
 
 **Claims**
+
 One may only claim blocks of a river that are 
 either
 - nested within other claims
@@ -116,17 +127,20 @@ Two players can jointly operate a claim. In this case, the consensus of both pla
 The Ender dragon may be re-summoned with /summon EnderDragon, with a maximum amount of 1 Enderdragon at a time.
 
 **Encompassing Claims:**
+
 If an unverified claim encompasses at least ⅓ of another claimed territory, the claim is an encompassing claim and requires ¾ verification of the Court.
 All encompassing claims are rejected upon the creation of this resolution, but may be re-verified.
 
 **Nether claims:**
+
 Nether claims must specify y-levels. 
 
 If a nether claim fails ratification, it may be proposed as a pass-through claim, in which case players must be able to pass through from any x or z direction. Thus the landlord can choose either layout:
 *SEE FILE images/nether_claims_passthrough.png*
 (where the lines represent passages at least one block wide to pass through) or any layout approved (on a case-by-case basis) by a majority of the Court.
 
-The Court
+**The Court**
+
 Whether an action is accidental or purposeful will be decided in a court of law.
 
 A majority (>50%) of the Court must find someone guilty to convict that person. Any prosecutors and any defendants do not count as “the Court” during trials involving them.
@@ -135,23 +149,25 @@ If 50% or less of the Court finds the defendant guilty, the prosecutor may not b
 
 Prosecutors may only explicitly prosecute for actions not older than six months. 
 
-Court Members
+**Court Members**
 
 The following accounts will be considered full Court members. Their approval is required in Court cases to varying degrees and dependent on other factors. These are the accounts, referred to by their UUIDs:
-ed5f12cd600745d9a4b9940524ddaecf
-949ff2499a0140329ecfc1b610fd7990
-b703704f5e88478bb5da49a27efcf88a
-3faf6b167c344049a919a7b4198e2374
+* ed5f12cd600745d9a4b9940524ddaecf
+* 949ff2499a0140329ecfc1b610fd7990
+* b703704f5e88478bb5da49a27efcf88a
+* 3faf6b167c344049a919a7b4198e2374
 
 These accounts correspond to Anand Beh, Akash Beh, Sohki Mitsunami, and Devan Cornelio. These accounts correspond to *SEE GOOGLE DOCUMENT FOR PRIVACY REASONS*.
 
 **PvP and Mobs**
+
 The landlord reserves full rights to allow or deny pvp for any players with any other players or mobs on his/her land.
 However, a player must be notified and allowed to leave the property, should the landlord suddenly allow pvp for them.
 
 Landlords grant permission for mob killing.
 
 **Weapons**
+
 One may use flint and steel, lava, and/or TNT on one’s own land unless doing so violates the other rules below.
 
 One may not use flint and steel, lava, or TNT on unclaimed land, nor may one let the fire, lava, or TNT explosion(s) leak onto unclaimed land purposefully.
@@ -159,26 +175,33 @@ One may not use flint and steel, lava, or TNT on unclaimed land, nor may one let
 One may not purposefully let fire, lava or TNT explosion(s) leak onto claimed land without the landlord’s permission.
 
 **TNT Protection**
+
 Landlords may utilize forms of programmed TNT protection to restrict the usage of TNT in their own land and deny TNT-wielding players the opportunity to grief. TNT protection may only affect a landlord’s own claimed land.
 
 **Mods**
+
 The mods allowed on the official Arim list are allowed in the world, and those not allowed in the Arim list, not allowed in the world.
 
 Hacks are not allowed.
 
 **Combat Logging and Quitting**
+
 Combat logging is legal. One may leave the game, teleport or fly at any time.
 
 **Enchants**
+
 If an item is so enchanted that in survival one cannot further enchant it on an anvil because it says “too many enchants”, then one may switch to creative mode temporarily to enchant it on the anvil, then remove the required levels by using the /xp -<NUMBER>L, where <NUMBER> is the amount of levels required.
 
 **Nametags**
+
 Players will have access to a feature which may be used to name an entity, provided they have the landlord's permission and the action of naming does not prevent the mob from despawning.
 
 **The Convention**
+
 One may not break the Convention.
 
 **Afk protection**
+
 Convention members are allowed to be afk (away from keyboard) or seemingly inactive in the world without being kicked out.
 Convention members cannot be kicked unless by an anticheat. 
 
