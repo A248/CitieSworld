@@ -1,6 +1,7 @@
 ## Permission Groups
 
-There are four privileged classes, in terms of increasing privilege:
+There are 5 privileged classes, in terms of increasing privilege:
+* Unrecognised players
 * Unverified commoners
 * Verified commoners
 * Court members
@@ -9,12 +10,18 @@ There are four privileged classes, in terms of increasing privilege:
 More privileged groups inherit the privileges of less privileged groups.
 Less privileged groups inherit the restrictions of more privileged groups.
 
+### Unrecognised Players
+
+Restrictions:
+ * *[Literal]* Cannot enter the world
+
 ### Unverified Commoners
 
 Privileges:
  * Simple Rights
  * Basic Legal Rights
  * PvP Rights
+ * Contractual Rights
  * Combat Logging and Quitting
 
 ### Verified Commoners
@@ -22,7 +29,6 @@ Privileges:
 Privileges:
  * File lawsuits
  * Vote on difficulty
- * Edit unclaimed land
  * Claiming and Land ownership
  * PvP and Movement Control
  * Enderman and TnT Protection
@@ -33,6 +39,7 @@ Restrictions:
 ### Court Members
 
 Privileges:
+ * Edit unclaimed land
  * Nether Claims
  * Request Backups
  * Call Court Discussions
@@ -59,13 +66,11 @@ Restrictions:
 
 Players with this permission may:
  * Use /fly or other means of flying at one's leisure.
- * Craft a custom map from a shapeless recipe of a sign, a lapis block, and another lapis block. One crafted, an image may be pasted onto such a custom map item via a custom command, provided the image is formatted correctly such that it may be replicated on a map.
+ * Craft a custom map from a shapeless recipe of a sign, a lapis block, and another lapis block. One crafted, an image may be pasted onto such a custom map item via a custom command, provided the image is formatted correctly such that it may be replicated on a map. Each player may only create a maximum of 2,000 custom maps.
  * Will have access to a feature which may be used to name an entity, provided they have the landlord's permission and the action of naming does not prevent the mob from despawning.
  * May craft 4 packed ice from a shapeless recipe of 4 ice.
  * "Breed" villagers by rightclicking a villager while holding 2 or more carrots. If there is a second villager close to the first one, then a new villager will be spawned at the clicked villager.
  * Resummon the enderdragon with /summon EnderDragon, with a maximum amount of 1 Enderdragon in the world at a time.
-
-Each player may only create a maximum of 2,000 custom maps.
 
 ### Basic Legal Rights
 
@@ -77,6 +82,10 @@ Players with this permission have:
 ### PvP Rights
 
 Players with this permission must be notified and allowed to leave the property, should the landlord suddenly allow pvp for them.
+
+### Contractual Rights
+
+Players with this permission, when binding themselves in a contract with another player, have the right to the upholding of their contracts, with one exception, that lock-in contracts, or those which force a player into repeating/continuous transaction, are prohibited.
 
 ### Combat-Logging and Quitting
 
@@ -97,14 +106,9 @@ Players with this permission, when online, may participate in difficulty votes:
  * Else, if the difficulty is not agreed upon, the easiest difficulty proposed is used worldwide.
  * Any player may set the difficulty to peaceful at any time.
 
-### Vote on Time
-
-Players with this permission, when online, may participate in time votes:
- * Unanimous agreement is required to change the world time.
-
 ### Claiming and Land Ownership
 
-Players with this permission must obtain approval by 50% of the Court to claim land. 50% of the Court must agree to certify a claim of land.
+Players with this permission must seek and obtain approval by 50% of the Court to claim land. 50% of the Court must agree to certify a claim of land.
 
 75% of the Court is needed to reject a claim after its certification.
 
@@ -130,11 +134,9 @@ Players with this permission may:
 * Utilize forms of programmed TNT protection to restrict the usage of TNT in their own land and deny TNT-wielding players the opportunity to grief. TNT protection may only affect a landlord’s own claimed land.
 * Optionally disable/enable creepers from damaging blocks on their own claimed land through explosive power.
 
-### Request Backups
+### Edit unclaimed land
 
-Players with this permission may request backups:
- * When a backup is requested, whichever player is responsible for the hosting (i.e., digital storage) of the world, known as the backup creator, must create a backup of the world and share it with the requesting player.
- * If the requesting player claims the backup has not been shared, the backup creator must share it over Google Drive.
+Players with this permission may edit unclaimed land provided that the unclaimed land is not sought as a claim.
 
 ### Nether Claims
 
@@ -143,6 +145,12 @@ Players with this permission may claim in the nether. Nether claims must specify
 If a nether claim fails ratification, it may be proposed as a pass-through claim, in which case players must be able to pass through from any x or z direction. Thus the landlord can choose either layout:
 *SEE FILE images/nether_claims_passthrough.png*
 (where the lines represent passages at least one block wide to pass through) or any layout approved (on a case-by-case basis) by a majority of the Court.
+
+### Request Backups
+
+Players with this permission may request backups:
+ * When a backup is requested, whichever player is responsible for the hosting (i.e., digital storage) of the world, known as the backup creator, must create a backup of the world and share it with the requesting player.
+ * If the requesting player claims the backup has not been shared, the backup creator must share it over Google Drive.
 
 ### Call Court Discussions
 
@@ -154,17 +162,34 @@ Finally, after 3 weeks of deliberation, the Court should start to come to a deci
 
 If the judges do not reach a majority decision within 6 weeks of the beginning of the Court Discussion, then the Court Discussion will be closed and no final binding answer will be issued. If the judges reach a majority decision within 6 weeks of the beginning of the Court Discussion, but not before 3 weeks of the beginning of the Court Discussion, the answer they have decided upon will be issued as a final binding answer, upheld as law.
 
+### Preside over Court Cases
+
+Players with this permission, who are neither prosecutor nor defendant, will constitute the bloc of judges deciding a lawsuit.
+
+### Vote on Time
+
+Players with this permission, when online, may participate in time votes:
+ * Unanimous agreement is required to change the world time.
+
+### Replace Blocks Automatically
+
+Players with this permission can use the command /citiesreplace to replace blocks in an area. They will receive all old blocks replaced but will have to pay for all new blocks inserted. If the player cannot pay for the new blocks, the command will stop.
+
+### Vote on Amendments
+
+Players with this permission are those whose approval must be gained, in an amount of at least 70% of the total, to change the Convention by amendment or clause of an amendment.
+
 ### Unlimited AFK
 
 Players with this permission:
  * Are allowed to be afk (away from keyboard) or seemingly inactive in the world without being kicked out.
  * Cannot be kicked unless by an anticheat. 
 
-### Replace Blocks Automatically
-
-Players with this permission can use the command /citiesreplace to replace blocks in an area. They will receive all old blocks replaced but will have to pay for all new blocks inserted. If the player cannot pay for the new blocks, the command will stop.
-
 ## Specific Restrictions
+
+### TnT
+
+Players with this restriction may not craft, pickup, acquire, use, place, ignite, or transport TnT, TnT minecarts, or any sort of explosive mechanisms.
 
 ### Property Rights Violations
 
@@ -205,10 +230,6 @@ The contents of dungeons and mineshafts, more specifically the blocks comprising
 
 Strongholds and nether fortresses may not be claimed. Players are free to claim ocean monuments, dungeons, mineshafts, villages, jungle temples, and desert temples.
 
-### TnT
-
-Players with this restriction may not craft, pickup, acquire, use, place, ignite, or transport TnT, TnT minecarts, or any sort of explosive mechanisms.
-
 ### Universal Restrictions
 
 One may not break the Convention.
@@ -217,15 +238,32 @@ The mods allowed on the official Arim list are allowed in the world, and those n
 
 Hacks are not allowed.
 
-## User Groups
+## User Groups and Acceptance
 
 Users are defined by a Minecraft UUID, IRL name, and optional email.
 
-Convention members:
+Court members and Convention members must be explicitly defined. Unverified commoners and verified commoners are simply approved and evaluated without having their UUIDs, names, or emails written in the Convention.
+
+### Unrecognised Players
+
+These players are barred from entry to the world.
+
+### Unverified Commoners
+
+These players are admitted to the world by a Court member at any time, for any reason.
+
+### Verified Commoners
+
+Unverified commoners become verified once 50% of Court members consent to their verification.
+
+### Court Members
+
 * ed5f12cd600745d9a4b9940524ddaecf / Anand Beh
 * 949ff2499a0140329ecfc1b610fd7990 / Akash Beh
 * b703704f5e88478bb5da49a27efcf88a / Sohki Mitsunami
 * 3faf6b167c344049a919a7b4198e2374 / Devan Cornelio
+
+### Convention Members
 
 Convention members:
 * ed5f12cd600745d9a4b9940524ddaecf / Anand Beh
@@ -233,4 +271,4 @@ Convention members:
 * b703704f5e88478bb5da49a27efcf88a / Sohki Mitsunami
 * 3faf6b167c344049a919a7b4198e2374 / Devan Cornelio
 
-*SEE GOOGLE DOC FOR EMAILS (HIDDEN DUE TO PRIVACY CONCERNS*
+*SEE GOOGLE DOC FOR EMAILS (HIDDEN DUE TO PRIVACY CONCERNS)*
