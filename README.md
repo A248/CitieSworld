@@ -1,4 +1,4 @@
-# CitieSworld
+# Citie Sworld
 A minecraft server.
 
 ## Server IP
