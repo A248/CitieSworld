@@ -23,6 +23,12 @@ Verified commoners are each entitled to a claim of dimensions 100 by 100. Such a
 * Larger in Z coordinate than 3,000 or smaller in Z coordinate than -3,000
 These claims are considered equal in legal status to those of Court and Convention members.
 
+**Restrictions on Immigrants**
+
+* No commoner may obtain or use TnT at any time in any way.
+* Commoners may not edit unclaimed land in the overworld.
+* Commoners may edit unclaimed land in the nether and end. Of course, they must comply with other Conventional specifications regarding the nether and end
+
 **Rights and Legal Principles**
 
 Everyone has the right to freedom of speech.
