@@ -10,6 +10,12 @@ These accounts correspond to Anand Beh, Akash Beh, Sohki Mitsunami, and Devan Co
 
 When an amendment/clause is ratified by a specific Convention member, that Convention member may rescind his/her ratification within 24 hours of approving such clause/amendment.
 
+**Immigration**
+
+All players not recognised by the Convention are considered barred from entry to the world by default. At any time for any reason, any Court member may approve the entrance of an unrecognised player into the world. At this point, the player is recognised as an unverified commoner, with the following rights: the player is permitted to act on claimed land as specified by landlords and to travel freely, including by flying, unless barred by landlord's command.
+
+Unverified commoners are recognised as verified commoners once 2 Court members consent to their verification. Verified commoners inherit the privileges of unverified commoners. Additionally, they may claim land with the approval of 70% of Court members and file lawsuits.
+
 **Rights and Legal Principles**
 
 Everyone has the right to freedom of speech.
