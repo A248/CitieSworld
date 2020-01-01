@@ -16,28 +16,6 @@ Everyone has the right to freedom of speech.
 Everyone has the right to due process and a fair trial.
 Everyone has the right to not incriminate oneself.
 
-**Immigration** *(per the New Restricted World Amendment)*
-
-1. New players must have commoner status to enter the world.
-
-2. Commoners must be approved to the commoners' whitelist by a court member. The whitelist is a list of all commoners allowed in the world.
-
-3. Commoners on the whitelist may be challenged by a court member. Once a commoner's status is challenged, only 2 court members are required to reject a player's commoner status, thereby banning them from the world.
-
-4. Commoners cannot break/place blocks above Y:20, with the exception of crafting tables.
-
-5. Commoners cannot use lava buckets, flint and steel, or tnt.
-
-6. Commoners may claim 1 small plot of land, with an equivalent area of 4 chunks in X and Z.
-
-7. Commoners can only place up to 3 crafting tables above Y:20. They may also mine existing crafting tables and move them around, while not exceeding 3 placed crafting tables at one time.
-
-8. Commoner claims will automatically be flagged with lava-flow to deny, lighter to deny, tnt to deny, and fire-spread to deny.
-
-9. Commoners have the right to file a lawsuit and the right to control their private property, but are not protected by the lock-in contracts clause.
-
-New players (commoners) can only claim stuff 700 blocks away from Akash's gold farm (X: 217, Z: 262).
-
 **Time and Difficulty**
 
 Changing the worldwide difficulty to a higher difficulty (more monsters) must be unanimously agreed upon. Else, if the difficulty is not agreed upon, the lowest difficulty (least monsters) proposed is used worldwide. Any player may set the difficulty to peaceful at any time.
