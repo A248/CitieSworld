@@ -16,6 +16,13 @@ All players not recognised by the Convention are considered barred from entry to
 
 Unverified commoners are recognised as verified commoners once 2 Court members consent to their verification. Verified commoners inherit the privileges of unverified commoners. Additionally, they may claim land with the approval of 70% of Court members and file lawsuits.
 
+**Immigrant Claims**
+Verified commoners are each entitled to a claim of dimensions 100 by 100. Such automatic claims provided under these stipulations shall be:
+* Immediately granted upon a commoner's recognition.
+* Larger in X coordinate than 3,000 or smaller in X coordinate than -3,000
+* Larger in Z coordinate than 3,000 or smaller in Z coordinate than -3,000
+These claims are considered equal in legal status to those of Court and Convention members.
+
 **Rights and Legal Principles**
 
 Everyone has the right to freedom of speech.
